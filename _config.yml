@@ -1,0 +1,20 @@
+title: "Talha Omer's GitHub Page"
+description: "Personal website of Talha Omer"
+theme: jekyll-theme-cayman
+
+# Optional: Configure the theme
+markdown: kramdown
+highlighter: rouge
+
+# Add navigation links
+nav_links:
+  - title: "Home"
+    url: /
+  - title: "Research Publications"
+    url: /research-publications
+  - title: "Working Papers"
+    url: /working-papers
+  - title: "Teaching"
+    url: /teaching
+  - title: "Codes"
+    url: /codes
