@@ -2,10 +2,6 @@ title: "Talha Omer's GitHub Page"
 description: "Personal website of Talha Omer"
 theme: jekyll-theme-cayman
 
-# Optional: Configure the theme
-markdown: kramdown
-highlighter: rouge
-
 # Add navigation links
 nav_links:
   - title: "Home"
